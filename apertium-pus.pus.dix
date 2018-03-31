@@ -2,7 +2,7 @@
 <dictionary>
 
   <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet></alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -54,9 +54,10 @@
     <sdef n="ind"             c="Indefinite"/>
     <sdef n="def"             c="Definite"/>
 
-    <sdef n="nom"             c="Nominative"/>
-    <sdef n="acc"             c="Accusative"/>
-    <sdef n="gen"             c="Genitive"/>
+    <sdef n="dir"             c="Direct"/>
+    <sdef n="obl"             c="Oblique I"/>
+    <sdef n="obl2"            c="Oblique II"/>
+    <sdef n="voc"             c="Vocative"/>
 
     <sdef n="dem"             c="Demonstrative"/>
     <sdef n="itg"             c="Question word / interrogative"/>
@@ -98,16 +99,21 @@
 
   <pardefs>
     <!-- Define paradigms within <pardef> here. -->
-    <pardef n="house__n">
-      <e><p><l></l><r><s n="n"/><s n="attr"/></r></p></e>
-      <e><p><l></l><r><s n="n"/><s n="sg"/></r></p></e>
-      <e><p><l>s</l><r><s n="n"/><s n="pl"/></r></p></e>
+    <pardef n="غر__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
+      <e><p><l>ۀ</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl2"/></r></p></e>
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ونه</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+
     </pardef>
   </pardefs>
 
   <section id="main" type="standard">
-    <!-- Define entries within <e> here. -->
-    <e lm="house"><i>house</i><par n="house__n"/></e>
+    <e lm="غر"><i>غر</i><par n="غر__n"/></e>
   </section>
 
   <section id="final" type="inconditional">
@@ -117,8 +123,3 @@
 
 </dictionary>
 
-<!--
-Resources:
-    http://wiki.apertium.org/wiki/Monodix_basics
-    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Monolingual_dictionaries
--->
