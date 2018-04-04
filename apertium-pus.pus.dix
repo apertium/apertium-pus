@@ -17,6 +17,7 @@
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
+    <sdef n="post"              c="Postposition"/>
     <sdef n="adv"             c="Adverb"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
@@ -210,6 +211,21 @@
       <e><p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
 
     </pardef>
+
+<!-- Preposition -->
+<pardef n="په__pr">
+<e><p><l></l><r><s n="pr"/></r></p></e>
+</pardef>
+
+<!-- Postposition -->
+<pardef n="ته__post">
+<e><p><l></l><r><s n="post"/></r></p></e>
+</pardef>
+
+<!-- Conjunctions -->
+<pardef n="او__cnjcoo">
+<e><p><l></l><r><s n="cnjcoo"/></r></p></e>
+</pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -233,7 +249,7 @@
 
 <!-- Postpositions -->
     <e lm="ته"><i>ته</i><par n="ته__post"/></e>
-    <e lm="سره"><i>سره</i><par n="سره__post"/></e>
+    <e lm="سره"><i>سره</i><par n="ته__post"/></e>
 
 <!-- Conjunctions -->
     <e lm="او"><i>او</i><par n="او__cnjcoo"/></e>
