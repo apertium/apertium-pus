@@ -100,7 +100,7 @@
   <pardefs>
     <!-- Define paradigms within <pardef> here. -->
    <!-- Masculine nouns -->
-   <!-- M1 nouns mainly animated ending in consonant needs native checking for obl2 s and p -->
+   <!-- M1 nouns mostly animated ending in consonant needs native checking for obl2 s and p -->
     <pardef n="شاگرد__n">
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
@@ -110,8 +110,8 @@
       <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
       <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
     </pardef>
+
    <!-- M1 nouns animated ending in ا needs native checking for obl2 s and p -->
     <pardef n="ملا__n">
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
@@ -122,21 +122,21 @@
       <e><p><l>یانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>یانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
       <e><p><l>یانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
     </pardef>
-   <!-- Ending in consonant -->
-    <pardef n="غر__n">
-      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
-      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+
+  <!-- M1 nouns animated ending in ه -->
+    <pardef n="لېو__n">
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
       <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl2"/></r></p></e>
       <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>ونه</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
-      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
-      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
-      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
+      <e><p><l>ان</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
+      <e><p><l>انو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
-  <!-- Ending in ه -->
+
+  <!-- M1 nouns inanimated ending in ه -->
     <pardef n="زړ__n">
       <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
@@ -146,21 +146,21 @@
       <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
       <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
     </pardef>
-  <!-- Ending in و -->
-    <pardef n="بازو__n">
+
+   <!-- M2 nouns mostly inanimated native checking for obl2 s and p -->
+    <pardef n="کور__n">
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
-      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl2"/></r></p></e>
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl2"/></r></p></e>
       <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
-      <e><p><l>ګان</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
-      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
-      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
-      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
+      <e><p><l>ونه</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
+      <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
-   <!-- Ending in ی -->
+
+   <!-- M3 nouns animated and inanimated -->
     <pardef n="سړ__n">
       <e><p><l>ی</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l>ي</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
@@ -170,9 +170,23 @@
       <e><p><l>يو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>يو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
       <e><p><l>يو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
-
     </pardef>
+
+  <!-- M4 nouns animated-->
+    <pardef n="بازو__n">
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="dir"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl"/></r></p></e>
+      <e><p><l></l><r><s n="n"/><s n="m"/><s n="sg"/><s n="obl2"/></r></p></e>
+      <e><p><l>ه</l><r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>ګان</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="obl2"/></r></p></e>
+      <e><p><l>ګانو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+    </pardef>
+
+
  <!-- Feminine nouns -->
+<!-- F1 nouns -->
     <pardef n="ښځ__n">
       <e><p><l>ه</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l>ې</l><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
@@ -182,8 +196,9 @@
       <e><p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl"/></r></p></e>
       <e><p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="obl2"/></r></p></e>
       <e><p><l>و</l><r><s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
-
     </pardef>
+
+<!-- F1 nouns ending in consonant -->
      <pardef n="ورځ__n">
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="dir"/></r></p></e>
       <e><p><l></l><r><s n="n"/><s n="f"/><s n="sg"/><s n="obl"/></r></p></e>
@@ -202,15 +217,15 @@
     <e lm="افغان"><i>افغان</i><par n="شاگرد__n"/></e>
     <e lm="شاعر"><i>شاعر</i><par n="شاگرد__n"/></e>
     <e lm="ملا"><i>ملا</i><par n="ملا__n"/></e>
-    <e lm="غر"><i>غر</i><par n="غر__n"/></e>
-    <e lm="زړه"><i>زړ</i><par n="زړ__n"/></e>
+    <e lm="لېوه"><i>لېوه</i><par n="لېو__n"/></e>
+    <e lm="زړه"><i>زړه</i><par n="زړ__n"/></e>
+    <e lm="کور"><i>کور</i><par n="کور__n"/></e>
+    <e lm="غر"><i>غر</i><par n="کور__n"/></e>
+    <e lm="روغتون"><i>روغتون</i><par n="کور__n"/></e>
+    <e lm="سړی"><i>سړی</i><par n="سړ__n"/></e>
     <e lm="بازو"><i>بازو</i><par n="بازو__n"/></e>
-    <e lm="سړی"><i>سړ</i><par n="سړ__n"/></e>
-    <e lm="ستوری"><i>ستور</i><par n="سړ__n"/></e>
-    <e lm="ملګری"><i>ملګر</i><par n="سړ__n"/></e>
-    <e lm="پسرلی"><i>پسرل</i><par n="سړ__n"/></e>
-    <e lm="اوړی"><i>اوړ</i><par n="سړ__n"/></e>
-
+    <e lm="ښځه"><i>ښځه</i><par n="ښځ__n"/></e>
+    <e lm="ورځ"><i>ورځ</i><par n="ورځ__n"/></e>
   </section>
 
   <section id="final" type="inconditional">
