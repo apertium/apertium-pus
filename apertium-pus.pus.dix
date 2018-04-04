@@ -213,6 +213,7 @@
   </pardefs>
 
   <section id="main" type="standard">
+<!-- Nouns -->
     <e lm="شاگرد"><i>شاگرد</i><par n="شاگرد__n"/></e>
     <e lm="افغان"><i>افغان</i><par n="شاگرد__n"/></e>
     <e lm="شاعر"><i>شاعر</i><par n="شاگرد__n"/></e>
@@ -226,7 +227,19 @@
     <e lm="بازو"><i>بازو</i><par n="بازو__n"/></e>
     <e lm="ښځه"><i>ښځه</i><par n="ښځ__n"/></e>
     <e lm="ورځ"><i>ورځ</i><par n="ورځ__n"/></e>
+
+<!-- Prepositions -->
+    <e lm="په"><i>په</i><par n="په__pr"/></e>
+
+<!-- Postpositions -->
+    <e lm="ته"><i>ته</i><par n="ته__post"/></e>
+    <e lm="سره"><i>سره</i><par n="سره__post"/></e>
+
+<!-- Conjunctions -->
+    <e lm="او"><i>او</i><par n="او__cnjcoo"/></e>
+
   </section>
+
 
   <section id="final" type="inconditional">
     <e><re>[.\?;:!…¿¶]</re><p><l></l><r><s n="sent"/></r></p></e>
