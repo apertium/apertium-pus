@@ -261,6 +261,7 @@
     <e lm="په"><i>په</i><par n="په__pr"/></e>
     <e lm="له"><i>له</i><par n="په__pr"/></e>
     <e lm="تر"><i>تر</i><par n="په__pr"/></e>
+    <e lm="د"><i>د</i><par n="په__pr"/></e>
 
 <!-- Postpositions -->
     <e lm="ته"><i>ته</i><par n="ته__post"/></e>
