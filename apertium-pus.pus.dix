@@ -74,6 +74,9 @@
     <sdef n="pprs"            c="Present participle"/>
     <sdef n="pasv"            c="Passive"/>
     <sdef n="actv"            c="Active voice"/>
+    <sdef n="impf" 	      c="Imperfective"/>
+    <sdef n="perf" 	      c="Perfective"/>
+
 
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
     <sdef n="pst"             c="Positive"/>
@@ -99,7 +102,7 @@
     <sdef n="barb"/>
   </sdefs>
 
-  <pardefs>
+  <pardefs>   
     <!-- Define paradigms within <pardef> here. -->
    <!-- Masculine nouns -->
    <!-- M1 nouns mostly animated ending in consonant needs native checking for obl2 s and p -->
@@ -239,6 +242,19 @@
 <pardef n="او__cnjcoo">
 <e><p><l></l><r><s n="cnjcoo"/></r></p></e>
 </pardef>
+
+<!-- Verbs -->
+<!-- to be -->
+<pardef n="شته__vbser">
+
+      <e>       <p><l>يم</l><r><s n="vbser"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>يو</l><r><s n="vbser"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>يې</l><r><s n="vbser"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>يئ</l><r><s n="vbser"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>دی</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ده</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>دي</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+	</pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -270,6 +286,9 @@
 <!-- Conjunctions -->
     <e lm="او"><i>او</i><par n="او__cnjcoo"/></e>
 
+<!-- Verbs -->
+<!-- to be -->
+<e lm="شته"><i>شته</i><par n="شته__vbser"/></e>
   </section>
 
 
