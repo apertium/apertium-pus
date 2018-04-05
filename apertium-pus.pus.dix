@@ -245,15 +245,15 @@
 
 <!-- Verbs -->
 <!-- to be -->
-<pardef n="شته__vbser">
+<pardef n="يم__vbser">
 
-      <e>       <p><l>يم</l><r><s n="vbser"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>يو</l><r><s n="vbser"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>يې</l><r><s n="vbser"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>يئ</l><r><s n="vbser"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>دی</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ده</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e>       <p><l>دي</l><r><s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>يم</l><r>يم<s n="vbser"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>يو</l><r>يم<s n="vbser"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>يې</l><r>يم<s n="vbser"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>يئ</l><r>يم<s n="vbser"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>دی</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ده</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>دي</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
 	</pardef>
   </pardefs>
 
@@ -288,7 +288,7 @@
 
 <!-- Verbs -->
 <!-- to be -->
-<e lm="شته"><i>شته</i><par n="شته__vbser"/></e>
+<e lm="يم"><i></i><par n="يم__vbser"/></e>
   </section>
 
 
