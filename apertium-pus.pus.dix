@@ -254,6 +254,14 @@
       <e>       <p><l>دی</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e>       <p><l>ده</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e>       <p><l>دي</l><r>يم<s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>وم</l><r>يم<s n="vbser"/><s n="pret"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>وو</l><r>يم<s n="vbser"/><s n="pret"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>وې</l><r>يم<s n="vbser"/><s n="pret"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>وئ</l><r>يم<s n="vbser"/><s n="pret"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ؤ</l><r>يم<s n="vbser"/><s n="pret"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e>       <p><l>وه</l><r>يم<s n="vbser"/><s n="pret"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e>       <p><l>وو</l><r>يم<s n="vbser"/><s n="pret"/><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+      <e>       <p><l>وې</l><r>يم<s n="vbser"/><s n="pret"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
 	</pardef>
   </pardefs>
