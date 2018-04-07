@@ -267,12 +267,12 @@
 <!-- sample verb -->
 <pardef n="ګډېدل__vblex">
 
-      <e>       <p><l>م</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>و</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ې</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ئ</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ي</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ي</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ګډېدم</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ګډېدو</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ګډېدې</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ګډېدئ</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ګډېدي</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ګډېدي</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	</pardef>
   </pardefs>
