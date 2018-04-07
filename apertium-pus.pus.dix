@@ -264,6 +264,17 @@
       <e>       <p><l>وې</l><r>يم<s n="vbser"/><s n="pret"/><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
 
 	</pardef>
+<!-- sample verb -->
+<pardef n="ګډېدل__vblex">
+
+      <e>       <p><l>م</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>و</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ې</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ئ</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ي</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ي</l><r>ګډېد<s n="vbser"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+
+	</pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -298,6 +309,8 @@
 <!-- Verbs -->
 <!-- to be -->
 <e lm="يم"><i></i><par n="يم__vbser"/></e>
+<!-- Other verbs -->
+<e lm="ګډېدل"><i></i><par n="ګډېدل__vblex"/></e>
   </section>
 
 
