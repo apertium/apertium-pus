@@ -265,14 +265,14 @@
 
 	</pardef>
 <!-- sample verb -->
-<pardef n="ګډېدل__vblex">
+<pardef n="ګډېد/ل__vblex">
 
-      <e>       <p><l>ګډېدم</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ګډېدو</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ګډېدې</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ګډېدئ</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ګډېدي</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>ګډېدي</l><r>ګډېد<s n="vblex"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e>       <p><l>م</l><r>ل<s n="vblex"/><s n="impf"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>و</l><r>ل<s n="vblex"/><s n="impf"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ې</l><r>ل<s n="vblex"/><s n="impf"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ئ</l><r>ل<s n="vblex"/><s n="impf"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ي</l><r>ل<s n="vblex"/><s n="impf"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e>       <p><l>ي</l><r>ل<s n="vblex"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	</pardef>
   </pardefs>
@@ -310,7 +310,7 @@
 <!-- to be -->
 <e lm="يم"><i></i><par n="يم__vbser"/></e>
 <!-- Other verbs -->
-<e lm="ګډېدل"><i></i><par n="ګډېدل__vblex"/></e>
+<e lm="ګډېدل"><i>ګډېد</i><par n="ګډېد/ل__vblex"/></e>
   </section>
 
 
