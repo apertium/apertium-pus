@@ -244,6 +244,35 @@
 </pardef>
 
 <!-- Verbs -->
+<!-- present imperfective paradigm-->
+  <pardef n="presimp_endings">
+    <e><p><l>م</l><r><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ې</l><r><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ي</l><r><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>و</l><r><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ئ</l><r><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l>ي</l><r><s n="p3"/><s n="pl"/></r></p></e>
+</pardef>
+<!-- past imperfective paradigm-->
+ <pardef n="pastimp_endings">
+    <e><p><l>م</l><r><s n="p1"/><s n="sg"/></r></p></e>
+    <e><p><l>ې</l><r><s n="p2"/><s n="sg"/></r></p></e>
+    <e><p><l>ۀ</l><r><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+    <e><p><l>ه</l><r><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>و</l><r><s n="p1"/><s n="pl"/></r></p></e>
+    <e><p><l>ﺉ</l><r><s n="p2"/><s n="pl"/></r></p></e>
+    <e><p><l></l><r><s n="p3"/><s n="m"/><s n="pl"/></r></p></e>
+    <e><p><l>ې</l><r><s n="p3"/><s n="f"/><s n="pl"/></r></p></e>
+</pardef>
+<!-- verb stem present-->
+<pardef n="ګډېد__vblex" c="present">
+    <e><p><l></l><r><s n="vblex"/><s n="pres"/><s n="impf"/></r></p><par n="presimp_endings"/></e>
+</pardef>
+<!-- verb stem past imperfective -->
+<!-- verb stem present-->
+<pardef n="ګډېدل__vblex" c="past">
+    <e><p><l></l><r><s n="vblex"/><s n="pret"/><s n="impf"/></r></p><par n="pastimp_endings"/></e>
+</pardef>
 <!-- to be -->
 <pardef n="يم__vbser">
 
@@ -310,7 +339,8 @@
 <!-- to be -->
 <e lm="يم"><i></i><par n="يم__vbser"/></e>
 <!-- Other verbs -->
-<e lm="ګډېدل"><i>ګډېد</i><par n="ګډېد/ل__vblex"/></e>
+<e lm="ګډېدل"><i>ګډېدل</i><par n="ګډېدل__vblex"/></e>
+<e lm="ګډېدل"><i>ګډېد</i><par n="ګډېد__vblex"/></e>
   </section>
 
 
