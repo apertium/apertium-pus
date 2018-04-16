@@ -311,11 +311,34 @@
       <e><p><l>ما</l><r>زه<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="obl"/></r></p></e>
     </pardef>
 
+    <pardef n="/ته__prn">
+      <e><p><l>ته</l><r>ته<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="dir"/></r></p></e>
+      <e><p><l>تا</l><r>ته<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="obl"/></r></p></e>
+    </pardef>
+
+    <pardef n="/مونږ__prn">
+      <e><p><l>مونږ</l><r>مونږ<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e r="LR"><p><l>موږ</l><r>مونږ<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>مونږ</l><r>مونږ<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e r="LR"><p><l>موږ</l><r>مونږ<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+
+    <pardef n="/تاسی__prn">
+      <e><p><l>تاسی</l><r>تاسی<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e r="LR"><p><l>تاسو</l><r>تاسی<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="dir"/></r></p></e>
+      <e><p><l>تاسی</l><r>تاسی<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="obl"/></r></p></e>
+      <e r="LR"><p><l>تاسو</l><r>تاسی<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="obl"/></r></p></e>
+    </pardef>
+
+
   </pardefs>
 
   <section id="main" type="standard">
 <!-- SECTION: Pronouns -->
     <e lm="زه"><i></i><par n="/زه__prn"/></e>
+    <e lm="ته"><i></i><par n="/ته__prn"/></e>
+    <e lm="مونږ"><i></i><par n="/مونږ__prn"/></e>
+    <e lm="تاسی"><i></i><par n="/تاسی__prn"/></e>
 
 <!-- SECTION: Nouns -->
     <e lm="شاگرد"><i>شاگرد</i><par n="شاگرد__n"/></e>
