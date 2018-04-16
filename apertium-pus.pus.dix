@@ -226,6 +226,12 @@
       <e><p><l>ونو</l><r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
     </pardef>
 
+<!-- Numerals -->
+<pardef n="نه__num">
+<e><p><l></l><r><s n="num"/></r></p></e>
+</pardef>
+
+
 <!-- Preposition -->
 <pardef n="په__pr">
 <e><p><l></l><r><s n="pr"/></r></p></e>
@@ -372,6 +378,10 @@
 
 <!-- Conjunctions -->
     <e lm="او"><i>او</i><par n="او__cnjcoo"/></e>
+
+<!-- SECTION: Numerals -->
+
+    <e lm="نه"><i>نه</i><par n="نه__num"/></e>
 
 <!-- Verbs -->
 <!-- to be -->
