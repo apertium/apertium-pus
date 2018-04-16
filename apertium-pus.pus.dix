@@ -302,10 +302,22 @@
       <e>       <p><l>ي</l><r>ل<s n="vblex"/><s n="impf"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	</pardef>
+
+
+    <!-- SECTION: Pronouns -->
+
+    <pardef n="/زه__prn">
+      <e><p><l>زه</l><r>زه<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="dir"/></r></p></e>
+      <e><p><l>ما</l><r>زه<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="obl"/></r></p></e>
+    </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
-<!-- Nouns -->
+<!-- SECTION: Pronouns -->
+    <e lm="زه"><i></i><par n="/زه__prn"/></e>
+
+<!-- SECTION: Nouns -->
     <e lm="شاگرد"><i>شاگرد</i><par n="شاگرد__n"/></e>
     <e lm="افغان"><i>افغان</i><par n="شاگرد__n"/></e>
     <e lm="شاعر"><i>شاعر</i><par n="شاگرد__n"/></e>
