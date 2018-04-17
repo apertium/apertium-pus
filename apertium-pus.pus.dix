@@ -444,6 +444,10 @@
 <!-- Other verbs -->
 <e lm="ګډېدل"><i>ګډېدل</i><par n="ګډېدل__vblex"/></e>
 <e lm="ګډېدل"><i>ګډېد</i><par n="ګډېد__vblex"/></e>
+<e lm="کول"><i>کول</i><par n="کول__vblex"/></e>
+<e lm="کول"><i>کو</i><par n="کو__vblex"/></e>
+<e lm="لیکل"><i>لیکل</i><par n="لیکل__vblex"/></e>
+<e lm="لیکل"><i>لیک</i><par n="لیک__vblex"/></e>
   </section>
 
 
