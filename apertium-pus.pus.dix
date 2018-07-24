@@ -375,6 +375,11 @@
     <e lm="پسې"><i>پسې</i><par n="ته__post"/></e>
     <e lm="کښې"><i>کښې</i><par n="ته__post"/></e>
     <e lm="کې"><i>کې</i><par n="ته__post"/></e>
+    <e lm="لاندې"><i>لاندې</i><par n="ته__post"/></e>
+    <e lm="پورې"><i>پورې</i><par n="ته__post"/></e>
+    <e lm="باندې"><i>باندې</i><par n="ته__post"/></e>
+    <e lm="څخه"><i>څخه</i><par n="ته__post"/></e>
+
 
 <!-- Conjunctions -->
     <e lm="او"><i>او</i><par n="او__cnjcoo"/></e>
