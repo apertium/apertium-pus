@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Pashto], [0.1.0], [coveredweb@gmail.com], [apertium-pus], [http://wiki.apertium.org/wiki/Apertium-pus])
+AC_INIT([Apertium Pashto], [0.1.0], [coveredweb@gmail.com], [apertium-pus], [https://wiki.apertium.org/wiki/Apertium-pus])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
